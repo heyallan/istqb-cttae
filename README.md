@@ -4,6 +4,7 @@ ISTQB Certified Tester Test Automation Engineer (CTTAE)
 
 ## Index
 
+```
 1. Introduction and Objectives for Test Automation
 1.1 Purpose of Test Automation
 1.2 Success Factors in Test Automation
@@ -57,6 +58,7 @@ ISTQB Certified Tester Test Automation Engineer (CTTAE)
 8 Continuous Improvement
 8.1 Options for Improving Test Automation
 8.2 Planning the Implementation of Test Automation Improvement
+```
 
 ## References
 
